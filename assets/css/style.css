@@ -506,7 +506,7 @@ a.hoverline:hover {
 
 .microsoft-text{
 
-  font-size: 15px;
+  font-size: 17px;
 }
 
 
@@ -665,6 +665,10 @@ small {
   .col.s4.m2{
     padding-bottom: 25px;
   }
+  .microsoft-text{
+
+    font-size: 15px;
+  }
   .card .role {
     position: relative;
     right: initial;
@@ -706,6 +710,10 @@ small {
     display: block;
     text-align: center;
     margin: 0 auto;
+  }
+  .microsoft-text{
+
+    font-size: 13px;
   }
   #intro.section {
     background-position-x: 30%;
