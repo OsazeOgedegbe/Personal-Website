@@ -95,10 +95,10 @@
   -webkit-border-radius: 5px;
 }
 
-/* .readme:hover{
-  color: white;
-  background-color: #00796b;
-} */
+ .readme:hover{
+  background: none;
+  color: #EDE7E3;  
+} 
 
 .contactme {
   position: relative;
@@ -116,8 +116,8 @@
 }
 
 .contactme:hover{
-  color: #00796b;
-  background-color: white;
+  color: #4472CA;
+  background-color: #EDE7E3;
 }
 /* main body */
 
@@ -175,7 +175,7 @@ blockquote * {
 /* main nav */
 
 nav {
-  background: white;
+  background: #EDE7E3;
   box-shadow: none;
   height: 0;
 }
