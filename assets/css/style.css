@@ -715,6 +715,9 @@ small {
 
     font-size: 11px;
   }
+  .card .card-content .skills-text {
+    font-size: 15px;
+  }
   #intro.section {
     background-position-x: 30%;
   }
