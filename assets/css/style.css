@@ -327,6 +327,7 @@ h3 {
 #intro.section {
   background: #3d3b3c repeat;
   position: relative;
+  height: 100%;
 }
 
 #intro.section .container {
